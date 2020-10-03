@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>HOME</title>
+  <link rel="stylesheet" href="css/index.css">
+  <link rel="icon" href="img/planet-earth.png"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <script src="https://kit.fontawesome.com/a076d05399.js"></script>
+</head>
+
+<body>
+        
+        <header id="navbar">
+            <div>    
+          <!-- our main logo -->
+            <nav>
+                <a id="logo" href="index.html">
+                <img src="img/planet-earth.png" alt="Logo"></a> 
+                <a href="index.html"><span id="heading">reSTORE</span></a>
+                <input type="checkbox" id="check">
+                <label for="check" class="checkbtn">
+                    <i class="fas fa-bars"></i>
+                </label>
+                <ul>
+                    <li><a href="info.html">WHAT WE DO</a></li>
+                    <li><a href="#garden">VERTICAL GARDENING</a></li>
+                    <li><a href="#services">OUR SERVICES</a></li>
+                    <li><a href="#quote">CONTACT US</a></li>
+                </ul>
+            </nav>
+            </div>
+        </header>
+    
+        <br><br><br><br>
+        <div class="slideshow-container">
+
+            <div class="mySlides fade">
+                <img src="img/lander1.jpg" style="width:100%;">
+                <div class="text">Breathe better.</div>
+            </div>
+            
+            <div class="mySlides fade">
+                <img src="img/lander4.jpg" style="width:100%">
+                <div class="text">Bring positive vibes.</div>   
+            </div>
+            
+            <div class="learnMore">
+                <!--<button type="submit" onClick="document.getElementsById('content').scrollIntoView();">LEARN MORE</button>
+                <span style='font-size:20px; color: white ;'>&#8595;</span>-->
+                <a href="#content" class="scroll-down" address="true"></a>     
+            </div>
+            <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+            <a class="next" onclick="plusSlides(1)">&#10095;</a>
+            <div style="text-align:center; bottom: 120px;">
+                <span class="dot" onclick="currentSlide(1)"></span> 
+                <span class="dot" onclick="currentSlide(2)"></span> 
+            </div>
+        </div>
+
+        <br><br>
+        <div style="width: 100%; height: 10px; background-color: #bbc4b2;"></div>
+        <section class="ourWork">
+            <div id="content" style="text-align: center;">
+  
+                <h1>WHAT WE DO</h1>
+                <p>"A Breath of fresh air is a great thing to take, and an even better thing to be!"<br>We transform your space for better breathing.</p>
+            
+                <div class="container">
+                    <div class="row">
+                    <div class="col">
+                        <ul id="progress-bar" class="progressbar">
+                            <li>Measure Air Quality</li>
+                            <li>Send AQI to our servers</li>
+                            <li>Suggest best plants</li>
+                            <li>Set up vertical gardens</li>
+                        </ul>
+                    </div>
+                    </div>
+                </div>
+                <button class="button1"  onclick="window.location.href='info.html'">EXPLORE</button>
+        </section>
+
+        <br><br><br>
+        <div style="width: 100%; height: 10px; background-color: #bbc4b2;"></div>
+        
+        <section id="garden"> 
+            <div id="content" style="text-align: center;">
+                <h1>WHY VERTICAL GARDENING</h1> 
+                <p style="text-align: center;">Vertical gardens are the perfect solutions to introduce greenery to locations, which are generally crunched by space.  It creates a refreshing green corner which 
+                    uplifts the overall ambience and quality of living. Besides its beauty, a vertical garden also reduces stress, enhance indoor air quality, improve mental health, 
+                    reduce employee sick days or demonstrate your commitment to sustainability.</p>
+                <div style="text-align: center;">
+                    <img src="img/v_garden.png" alt="Vertical Garden" class="vertical">
+                </div><br>
+                <hr>
+                <p style="text-align: center;">Instead of furnishings, upholstry, synthetic building materials and cleaning products, our surroundings could be much more refreshing by grwing potted plants
+                    that purify air and restore your mind.</p>
+            </div>         
+        </section>
+
+        <br>
+        <div style="width: 100%; height: 10px; background-color: #bbc4b2;"></div>
+        <section id="services"> 
+            <div id="content" style="text-align: center;">
+                <h1>OUR SERVICES</h1> 
+                <p style="text-align: center;">Here, we present to you the services in terms of packages provided by us in regards to vertical greenery and purifing/refreshing the air around you.
+                    One of the most unique service of our company is that we check the air content of the place where we'll be implementing the solution.
+                    This gives us a fair idea as to which kinds of plansts are suitable to that place and also we follow automated drip irrigation system in order to save water.
+                    You can contact us to get a customized package for yourself.</p>
+                <div class="services-grid">
+                    <div class="service service1">
+                        <i class="fa fa-home" aria-hidden="true"></i>
+                      <h4>Apartment Services</h4>
+                      <p>We have now expanded our services to apartments as a whole.
+                        The packages we provide are keeping into the mind people's perspective towards the nature.</p>
+            
+                    </div>
+                
+                    <div class="service service2">
+                        <i class="fa fa-building" aria-hidden="true"></i>
+                      <h4>Tech-Park Services</h4>
+                      <p>Frustrated of looking at the same old 4 walls of your cabin? The packages we provide are keeping into the mind people's perspective towards the nature.</p>
+                     
+                    </div>
+                
+                    <div class="service service3">
+                        <i class="fas fa-school"></i>
+                      <h4>University Services</h4>
+                      <p>More the greenery at your university the better the ambience.
+                        The packages we provide are keeping into the mind people's perspective towards the nature.</p>
+                     
+                    </div>
+                  </div>
+            </div>
+                
+        </section>
+
+        <br>
+        <div style="width: 100%; height: 10px; background-color: #bbc4b2;"></div>
+        <section id="quote"> 
+            <div id="content" style="text-align: center;">
+                <h1>GET QUOTE</h1> 
+                <!--<div style="text-align: center;">
+                    <img src="img/lander5.jpg" alt="Vertical Garden" class="vertical">
+                </div>-->
+                <form>      
+                    <input name="name" type="text" class="feedback-input" placeholder="Name" />   
+                    <input name="email" type="text" class="feedback-input" placeholder="Email" />
+                    <textarea name="text" class="feedback-input" placeholder="Comment"></textarea>
+                    <input type="submit" value="SUBMIT"/>
+                  </form>
+            </div>
+            
+                
+        </section>
+
+
+        <div class="footer"><strong>reSTORE</strong>
+            <hr style="max-width: 100px; text-align: center;">
+            <span style="text-align: center; font-size: small; color: white;">Copyright © 2020 reSTORE</span>
+        </div>
+
+        <script>
+            var slideIndex = 1;
+            showSlides(slideIndex);
+            
+            function plusSlides(n) {
+              showSlides(slideIndex += n);
+            }
+            
+            function currentSlide(n) {
+              showSlides(slideIndex = n);
+            }
+            
+            function showSlides(n) {
+              var i;
+              var slides = document.getElementsByClassName("mySlides");
+              var dots = document.getElementsByClassName("dot");
+              if (n > slides.length) {slideIndex = 1}    
+              if (n < 1) {slideIndex = slides.length}
+              for (i = 0; i < slides.length; i++) {
+                  slides[i].style.display = "none";  
+              }
+              for (i = 0; i < dots.length; i++) {
+                  dots[i].className = dots[i].className.replace(" active", "");
+              }
+              slides[slideIndex-1].style.display = "block";  
+              dots[slideIndex-1].className += " active";
+            }
+
+
+            $(function() {
+                $('.scroll-down').click (function() {
+                $('html, body').animate({scrollTop: $('section.ok').offset().top }, 'slow');
+                return false;
+                });
+            });
+            </script>
+
+    </body>
+</html>
