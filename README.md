@@ -5,6 +5,7 @@ By the year 2050, nearly 80% of the earth's population will reside in urban cent
 
 This limits the place available for flora and fauna around us, and the vegetation plays an important positive role in atmospheric purification and air pollutants reduction.
 
+## EMPATHY MAP:
 ![alt text](https://cdn.discordapp.com/attachments/760089933784023040/761625346860122125/Empathy_Map.jpg)
 
 ## HOW?
@@ -16,7 +17,10 @@ These plants can then be vertically planted mainly in corporate offices. In addi
 
 <hr>
 
-## TO DO
+## SWOT Analysis:
+![alt text](https://cdn.discordapp.com/attachments/760089933784023040/761980229706579978/SWOT.png)
+
+## TO DO:
 <ul>
   <li>SWOT Analysis</li>
   <li>Work on the SD.ino and IoT.ino</li>
