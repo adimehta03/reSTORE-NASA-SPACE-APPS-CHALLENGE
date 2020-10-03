@@ -10,7 +10,7 @@ This limits the place available for flora and fauna around us, and the vegetatio
 ## HOW?
 We as a team have devised a solution for the mentioned problem sustains the planet for our future generation, thus solving a major problem.
 
-Our solution uses an air quality sensor and recommends air emission plants(air pollutant absorbing plants) and pest repellent plants which absorb the air pollutants as shown by the air quality sensor and an ML model which recommends you the best form of green life taking into consideration some valid environmental factors around the living space of an individual.
+Our solution uses an air quality sensor and recommends air emission plants(air pollutant absorbing plants) which absorb the air pollutants as shown by the air quality sensor and an ML model which recommends you the best form of green life taking into consideration some valid environmental factors around the living space of an individual. Also we intend to provide light sensors for plant growth indoor, watering facilities with drip irrigators, RO purifiers for reusability and pest repellent plants for maintainance. 
 
 These plants can then be vertically planted mainly in corporate offices. In addition to that, they can also be planted in apartments and houses too. We can incorporate this as a Service-Based Business(SBB). We can contact unemployed gardeners whose source of income has been affected due to COVID for maintaining and shaping these plants, and contact farmers for wholesale plants, thereby increasing their income and increasing our profit margin.
 
