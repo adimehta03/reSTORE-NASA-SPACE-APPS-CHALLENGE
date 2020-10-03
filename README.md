@@ -22,7 +22,6 @@ These plants can then be vertically planted mainly in corporate offices. In addi
 
 ## TO DO:
 <ul>
-  <li>SWOT Analysis</li>
   <li>Work on the SD.ino and IoT.ino</li>
   <li>Tech Integration</li>
   <li>UI/UX improvements</li>
