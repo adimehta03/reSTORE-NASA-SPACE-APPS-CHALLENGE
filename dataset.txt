@@ -1,12 +1,10 @@
-Temperature -0-10-low,10-30-normal,30+-high
-
 plant;pollutant;cost range;Moisture;Temperature
 SweetFlag;Methanol;200;High;Low
 RedAmarnath;Napthalene;200;Normal;Normal
 RedAmarnath;Phenanthrene;200;Normal;Normal
 Evergreen azalea;Toluene;400;Low;Low
 bougainvillea;Xylene;200;High;Normal
-beach morning glory;Methanol;NULL;Normal;High
+beach morning glory;Methanol;500;Normal;High
 vetiver;Benzene;60;Normal;Normal
 vetiver;Toluene;60;Normal;Normal
 vetiver;Ethylbenzene;60;Normal;Normal
