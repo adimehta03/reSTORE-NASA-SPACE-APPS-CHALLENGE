@@ -5,6 +5,8 @@ By the year 2050, nearly 80% of the earth's population will reside in urban cent
 
 This limits the place available for flora and fauna around us, and the vegetation plays an important positive role in atmospheric purification and air pollutants reduction.
 
+![alt text](https://cdn.discordapp.com/attachments/760089933784023040/761625346860122125/Empathy_Map.jpg)
+
 ## HOW?
 We as a team have devised a solution for the mentioned problem sustains the planet for our future generation, thus solving a major problem.
 
