@@ -1,0 +1,41 @@
+plant;pollutant;cost range;Moisture;Temperature
+SweetFlag;Methanol;200;High;Low
+RedAmarnath;Napthalene;200;Normal;Normal
+RedAmarnath;Phenanthrene;200;Normal;Normal
+Evergreen azalea;Toluene;400;Low;Low
+bougainvillea;Xylene;200;High;Normal
+beach morning glory;Methanol;500;Normal;High
+vetiver;Benzene;60;Normal;Normal
+vetiver;Toluene;60;Normal;Normal
+vetiver;Ethylbenzene;60;Normal;Normal
+vetiver;Xylene;60;Normal;Normal
+Asian pigeonwings;Formaldehyde;200;High;Normal
+water hyacinth;Methanol;100;High;Low
+cucumber;Alkanes;150;High;Normal
+treasure flower;alkanes;500;Low;High
+Jasmine;Napthalene;410;Low;Normal
+Jasmine;Phenanthrene;410;Low;Normal
+Hibiscus;Napthalene;200;High;Low
+Hibiscus;Napthalene;200;High;Low
+jungle geranium;Napthalene;160;High;Normal
+jungle geranium;Phenanthrene;160;High;Normal
+jungle geranium;Polycyclic Aromatic Hydrocarbons;160;High;Normal
+English Ivy;Particulate matter;750;Low;Low
+RyeGrass;Petroleum Hydrocarbons;50;High;Normal
+RyeGrass;Phenanthrene;50;High;Normal
+hoary stock;Alkanes;150;Normal;Low
+rice; methanol;150;high;Normal
+common bean;crude oil;200;high;Normal
+common bean;phenanthrene;200;high;Normal
+common bean;octadexane;200;high;Normal
+pea; polyaromatic hydrocarbon;120;high;Normal
+yellow elder;alkanes;350;Normal;high
+glaucous willow;Polycyclic Aromatic Hydrocarbons;600;High;Normal
+purpleosier willow;Polycyclic Aromatic Hydrocarbons;300;High;Normal
+Dandy;Alkanes;100;Low;High
+Trumpet Flower;Volatile Hydrocarbons;250;Low;Normal
+Trumpet Flower;Alkanes;250;Low;Normal
+broadbean;Alkanes;200;Normal;Normal
+broadbean;Phenanthrene;200;Normal;Normal
+broadbean;Crude oil;200;Normal;Normal
+broadbean;Hexadecane;200;Normal;Normal

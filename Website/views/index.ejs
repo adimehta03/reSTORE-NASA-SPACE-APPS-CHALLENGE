@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>What do you need?</title>
+</head>
+<body>
+    <form action="/process" method="POST" id="form">
+        <label for="temperature">Choose a temperature level:</label>
+        <select id="temp" name="templist" form="form">
+        <option value="low">Low</option>
+        <option value="normal">Normal</option>
+        <option value="high">High</option>
+        </select>
+
+        <label for="moisture">Choose a Moisture level:</label>
+        <select id="moist" name="moistlist" form="form">
+        <option value="low">Low</option>
+        <option value="normal">Normal</option>
+        <option value="high">High</option>
+        </select>
+
+        <label for="polls">Choose a Pollutant:</label>
+        <select id="poll" name="polllist" form="form">
+        <option value="Methanol">Methanol</option>
+        <option value="Napthalene">Napthalene</option>
+        <option value="Phenanthrene">Phenanthrene</option>
+        <option value="Toluene">Toluene</option>
+        <option value="Xylene">Xylene</option>
+        <option value="Benzene">Benzene</option>
+        <option value="Ethylbenzene">Ethylbenzene</option>
+        <option value="Formaldehyde">Formaldehyde</option>
+        <option value="Alkanes">Alkanes</option>
+        <option value="Polycyclic Aromatic Hydrocarbons">Polycyclic Aromatic Hydrocarbons</option>
+        <option value="Particulate matter">Particulate matter</option>
+        <option value="Petroleum Hydrocarbons">Petroleum Hydrocarbons</option>
+        <option value="crude oil">crude oil</option>
+        <option value="Octadexane">Octadexane</option>
+        <option value="Polyaromatic hydrocarbon">Polyaromatic hydrocarbon</option>
+        <option value="Volatile Hydrocarbons">Volatile Hydrocarbons</option>
+        <option value="Hexadecane">Hexadecane</option>
+        </select>
+
+        <label for="cost">Choose a Cost Range:</label>
+        <select id="cst" name="costlist" form="form">
+        <option value="50-150">50-150</option>
+        <option value="150-250">150-250</option>
+        <option value="250-350">250-350</option>
+        <option value="350-450">350-450</option>
+        <option value="450-550">450-550</option>
+        <option value="550-650">550-650</option>
+        <option value="650-750">650-750</option>
+        </select>
+
+        <input type="submit">
+        <input type="reset">
+
+    </form>
+</body>
+</html>
