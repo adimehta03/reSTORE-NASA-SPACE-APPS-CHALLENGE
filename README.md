@@ -20,13 +20,17 @@ These plants can then be vertically planted mainly in corporate offices. In addi
 ## SWOT Analysis:
 ![alt text](https://cdn.discordapp.com/attachments/760089933784023040/761980229706579978/SWOT.png)
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
+## VIDEO DEMO:
+[![Watch the video]](https://youtu.be/dgqYahDZZFU)
+
+<hr>
+
 ## TO DO:
 <ul>
   <li>Work on the SD.ino and IoT.ino</li>
   <li>Tech Integration</li>
   <li>UI/UX improvements</li>
   <li>BMC</li>
-  <li>Video Demo</li>
+  <li><strike>Video Demo</strike></li>
 </ul>
   
