@@ -31,7 +31,7 @@ app.post('/process',(req,res)=>{
     requirements.moisture = req.body.moistlist;
     requirements.temperature = req.body.templist;
     console.log(requirements);
-    var process = spawn('python',["./ML_model.py",
+    var process = spawn('python',["./ml.py",
     requirements.pollutant,requirements.cost,requirements.moisture,requirements.temperature]);
 
      // with arguments and send this data to res object 
