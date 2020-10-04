@@ -15,6 +15,10 @@ Our solution uses an air quality sensor and recommends air emission plants(air p
 
 These plants can then be vertically planted mainly in corporate offices. In addition to that, they can also be planted in apartments and houses too. We can incorporate this as a Service-Based Business(SBB). We can contact unemployed gardeners whose source of income has been affected due to COVID for maintaining and shaping these plants, and contact farmers for wholesale plants, thereby increasing their income and increasing our profit margin.
 
+
+## CIRCUIT DESIGN:
+![alt circuit](https://github.com/adimehta03/reSTORE-NASA-SPACE-APPS-CHALLENGE/blob/main/IoT/circuit_diagram.jpeg)
+
 <hr>
 
 ## SWOT Analysis:
