@@ -25,7 +25,7 @@ These plants can then be vertically planted mainly in corporate offices. In addi
 ![alt text](https://cdn.discordapp.com/attachments/760089933784023040/761980229706579978/SWOT.png)
 
 ## VIDEO DEMO:
-![Watch the video](https://i9.ytimg.com/vi/dgqYahDZZFU/mq2.jpg?sqp=CIzM5fsF&rs=AOn4CLDQcIgWqiL_3UMPaxLWeHQZqbHCFQ)](https://youtu.be/dgqYahDZZFU)
+[![Watch the video](https://i9.ytimg.com/vi/dgqYahDZZFU/mq2.jpg?sqp=CIzM5fsF&rs=AOn4CLDQcIgWqiL_3UMPaxLWeHQZqbHCFQ)](https://youtu.be/dgqYahDZZFU)
 
 
 ## 3D MODEL -
