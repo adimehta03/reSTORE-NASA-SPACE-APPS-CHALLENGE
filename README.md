@@ -23,7 +23,12 @@ These plants can then be vertically planted mainly in corporate offices. In addi
 ## VIDEO DEMO:
 [![Watch the video](https://i9.ytimg.com/vi/dgqYahDZZFU/mq2.jpg?sqp=CIzM5fsF&rs=AOn4CLDQcIgWqiL_3UMPaxLWeHQZqbHCFQ)](https://youtu.be/dgqYahDZZFU)
 
+
+## 3D MODEL -
+![alt model](https://github.com/adimehta03/reSTORE-NASA-SPACE-APPS-CHALLENGE/blob/main/Model/final_model.png)
+
 <hr>
+
 
 ## TO DO:
 <ul>
