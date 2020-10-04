@@ -42,7 +42,7 @@ app.post('/process',(req,res)=>{
 
 app.get('/result',(req,res)=>{
     var pythonData = [];
-    const python = spawn('python',['ML_model.py']);
+    const python = spawn('python',['ml.py']);
     python.stdout.on('data',function(data){
         pythonData.push(data);
         console.log(data);
