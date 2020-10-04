@@ -20,8 +20,7 @@ These plants can then be vertically planted mainly in corporate offices. In addi
 ## SWOT Analysis:
 ![alt text](https://cdn.discordapp.com/attachments/760089933784023040/761980229706579978/SWOT.png)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dgqYahDZZFU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
 ## TO DO:
 <ul>
   <li>Work on the SD.ino and IoT.ino</li>
