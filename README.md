@@ -36,10 +36,10 @@ These plants can then be vertically planted mainly in corporate offices. In addi
 
 ## TO DO:
 <ul>
-  <li>Work on the SD.ino and IoT.ino</li>
-  <li>Tech Integration</li>
-  <li>UI/UX improvements</li>
-  <li>BMC</li>
+  <li><strike>Work on the SD.ino and IoT.ino</strike></li>
+  <li><strike>Tech Integration</strike></li>
+  <li><strike>UI/UX improvements</strike></li>
+  <li><strike>BMC</strike></li>
   <li><strike>Video Demo</strike></li>
 </ul>
   
